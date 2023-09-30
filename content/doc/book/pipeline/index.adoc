@@ -38,7 +38,7 @@ including how to:
   reference of all Declarative Pipeline syntax.
 
 For an overview of content in the Jenkins User Handbook, see
-link:getting-started[User Handbook overview].
+link:getting-started[User Handbook Overview].
 
 [[overview]]
 == What is Jenkins Pipeline?
@@ -135,7 +135,7 @@ video::IOUm1lw7F58[youtube,width=800,height=420]
 Building on the core Jenkins value of extensibility, Pipeline is also extensible
 both by users with link:shared-libraries[Pipeline Shared Libraries] and by
 plugin developers.
-footnote:ghof[plugin:github-organization-folder[GitHub Organization Folder plugin]]
+footnote:ghof[plugin:github-branch-source[GitHub Branch Source plugin]]
 
 The flowchart below is an example of one CD scenario easily modeled in Jenkins
 Pipeline:
