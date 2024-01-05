@@ -1,7 +1,8 @@
 repo_name: ankurkumarz/jenkins.io
 report_id: 00e7881773173017529d195b7a974b10
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T15:17:29+00:00'
+timestamp: '2024-01-05T08:24:14+00:00'
 requested_by: ankurkumarz
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2924/gvQpykZd_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/jenkins.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Alexander Brandes
   last_updated_on: 2022-12-18 20:02:17.000000000 Z
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins.io
   detection_source: Repo Metadata
 - name: HAML
   description: HTML Abstraction Markup Language - A Markup Haiku
@@ -51,6 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ankurkumarz/jenkins.io
   detection_source: Repo Metadata
 - name: Liquid
   description: Open-source template language written in Ruby
@@ -131,6 +135,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins.io/blob/master/content/images/logos/nut/jenkins-nut.txt
   detection_source: content/images/logos/nut/jenkins-nut.txt
   last_updated_by: Jim Klimov
   last_updated_on: 2021-04-09 18:50:52.000000000 Z
@@ -143,6 +148,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins.io
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -163,6 +169,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins.io/blob/master/.github/workflows/label-conflicting-prs.yml
   detection_source: ".github/workflows/label-conflicting-prs.yml"
   last_updated_by: Alexander Brandes
   last_updated_on: 2023-03-07 19:55:05.000000000 Z
@@ -174,6 +181,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ankurkumarz/jenkins.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: R. Tyler Croy
   last_updated_on: 2017-07-26 19:45:55.000000000 Z
@@ -185,6 +193,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins.io/blob/master/package.json
   detection_source: package.json
   last_updated_by: R. Tyler Croy
   last_updated_on: 2017-07-26 20:53:33.000000000 Z
@@ -194,6 +203,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins.io/blob/master/content/_partials/_feedback-footer.html
   detection_source: content/_partials/_feedback-footer.html
   last_updated_by: Giles Gaskell
   last_updated_on: 2017-12-13 00:44:57.000000000 Z
@@ -205,6 +215,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ankurkumarz/jenkins.io/blob/master/content/images/logos/nut/jenkins-nut.txt
   detection_source: content/images/logos/nut/jenkins-nut.txt
   last_updated_by: Jim Klimov
   last_updated_on: 2021-04-09 18:50:52.000000000 Z
@@ -217,6 +228,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ankurkumarz/jenkins.io
   detection_source: Repo Metadata
 - name: colorize
   description: Extends String class or add a ColorizedString with methods to set text
